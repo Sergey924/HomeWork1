@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpAI.Core", "SharpAI.Core\SharpAI.Core.csproj", "{04E1D378-BD04-44A7-892D-33A505C62065}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpAI.App", "SharpAI.App\SharpAI.App.csproj", "{4C977C95-E990-43C7-9190-821AC8385468}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04E1D378-BD04-44A7-892D-33A505C62065}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04E1D378-BD04-44A7-892D-33A505C62065}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04E1D378-BD04-44A7-892D-33A505C62065}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04E1D378-BD04-44A7-892D-33A505C62065}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C977C95-E990-43C7-9190-821AC8385468}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C977C95-E990-43C7-9190-821AC8385468}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C977C95-E990-43C7-9190-821AC8385468}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C977C95-E990-43C7-9190-821AC8385468}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
